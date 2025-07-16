@@ -33,8 +33,16 @@ A virtual keyboard system that allows users to control and type using hand gestu
 
 git clone https://github.com/Lucifermorningstar66/Keyboard-Controller.git
 cd Keyboard-Controller
-pip install -r requirements.txt
 
 ---
 
+## 📄 License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+---
+
+## 🙌 Acknowledgments
+MediaPipe – Real-time ML solutions by Google
+PyCaw – Control Windows volume with Python
+OpenCV community
 
